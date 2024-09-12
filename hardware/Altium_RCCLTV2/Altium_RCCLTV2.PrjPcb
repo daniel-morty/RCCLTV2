@@ -37,8 +37,8 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
+CrossRefSheetStyle=0
+CrossRefLocationStyle=0
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -123,7 +123,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -133,37 +133,54 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NISDHVSQ
 
+[Document6]
+DocumentPath=RCCLTV2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UETTVGKT
+
 [Parameter1]
-Name=Version
-Value=2
+Name=Description1
+Value=It's RC Cars that play Laser Tag!
 
 [Parameter2]
-Name=Revision
-Value=0
-
-[Parameter3]
-Name=Really_Cool_Title
-Value=Remote Control Car Laser Tag (RCCLT)
-
-[Parameter4]
-Name=Engineer
-Value=Daniel Mortenson
-
-[Parameter5]
-Name=Description4
-Value=
-
-[Parameter6]
-Name=Description3
-Value=tell your friends
-
-[Parameter7]
 Name=Description2
 Value=totally home made, totally 3D printer, totall cool
 
+[Parameter3]
+Name=Description3
+Value=tell your friends
+
+[Parameter4]
+Name=Description4
+Value=
+
+[Parameter5]
+Name=Engineer
+Value=Daniel Mortenson
+
+[Parameter6]
+Name=Really_Cool_Title
+Value=Remote Control Car Laser Tag (RCCLT)
+
+[Parameter7]
+Name=Revision
+Value=0
+
 [Parameter8]
-Name=Description1
-Value=It's RC Cars that play Laser Tag!
+Name=Version
+Value=2
 
 [Configuration1]
 Name=Sources
