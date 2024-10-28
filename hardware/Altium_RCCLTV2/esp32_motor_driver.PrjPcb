@@ -117,23 +117,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XDJMUTPE
 
 [Document5]
-DocumentPath=IR.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NISDHVSQ
-
-[Document6]
 DocumentPath=RCCLTV2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
