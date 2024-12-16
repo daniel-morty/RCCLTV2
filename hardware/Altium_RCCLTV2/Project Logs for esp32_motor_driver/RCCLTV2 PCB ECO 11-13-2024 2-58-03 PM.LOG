@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=STEER-PWM Pin=U2-11
+Added Pin To Net: NetName=STEER-PWM Pin=U2-14
