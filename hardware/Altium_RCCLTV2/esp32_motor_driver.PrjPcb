@@ -134,36 +134,36 @@ GenerateClassCluster=0
 DocumentUniqueId=UETTVGKT
 
 [Parameter1]
-Name=Description1
-Value=It's RC Cars that play Laser Tag!
+Name=Version
+Value=2
 
 [Parameter2]
-Name=Description2
-Value=totally home made, totally 3D printer, totall cool
-
-[Parameter3]
-Name=Description3
-Value=tell your friends
-
-[Parameter4]
-Name=Description4
-Value=
-
-[Parameter5]
-Name=Engineer
-Value=Daniel Mortenson
-
-[Parameter6]
-Name=Really_Cool_Title
-Value=Remote Control Car Laser Tag (RCCLT)
-
-[Parameter7]
 Name=Revision
 Value=0
 
+[Parameter3]
+Name=Really_Cool_Title
+Value=Remote Control Car Laser Tag (RCCLT)
+
+[Parameter4]
+Name=Engineer
+Value=Daniel Mortenson
+
+[Parameter5]
+Name=Description4
+Value=
+
+[Parameter6]
+Name=Description3
+Value=tell your friends
+
+[Parameter7]
+Name=Description2
+Value=totally home made, totally 3D printer, totall cool
+
 [Parameter8]
-Name=Version
-Value=2
+Name=Description1
+Value=It's RC Cars that play Laser Tag!
 
 [Configuration1]
 Name=Sources
