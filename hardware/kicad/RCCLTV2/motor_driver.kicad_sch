@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4468cc00-5625-40a0-9d4c-7c0ffd6b74b7")
+	(paper "A4")
+	(title_block
+		(title "Remote Control Laser Tag")
+		(company "Daniel Mortenson")
+	)
+	(lib_symbols)
+)

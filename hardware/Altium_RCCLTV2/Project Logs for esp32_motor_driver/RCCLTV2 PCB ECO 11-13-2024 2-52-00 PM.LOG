@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=I2C-SDA Pin=di-1
-Removed Pin From Net: NetName=I2C-SCK Pin=di-2
-Removed Pin From Net: NetName=3V3 Pin=di-3
-Removed Pin From Net: NetName=GND Pin=di-4
-Change Component Designator: OldDesignator=di NewDesignator=J3
-Added Pin To Net: NetName=3V3 Pin=J3-1
-Added Pin To Net: NetName=GND Pin=J3-2
-Added Pin To Net: NetName=I2C-SDA Pin=J3-3
-Added Pin To Net: NetName=I2C-SCK Pin=J3-4

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=EN Pin=SW2-2
-Removed Pin From Net: NetName=GND Pin=SW2-3
-Added Pin To Net: NetName=GND Pin=SW2-2
-Added Pin To Net: NetName=EN Pin=SW2-3
-Added Member To Class: ClassName=Motor_Driver Member=Component C? 0.1 µF

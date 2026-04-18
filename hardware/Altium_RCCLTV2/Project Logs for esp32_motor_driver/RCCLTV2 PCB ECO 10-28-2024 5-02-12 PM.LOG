@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=USB-DP-PROT Pin=U1-6
-Removed Pin From Net: NetName=VUSB-PROT Pin=U1-8
-Added Pin To Net: NetName=VUSB-PROT Pin=U1-6
-Added Pin To Net: NetName=USB-DP-PROT Pin=U1-8

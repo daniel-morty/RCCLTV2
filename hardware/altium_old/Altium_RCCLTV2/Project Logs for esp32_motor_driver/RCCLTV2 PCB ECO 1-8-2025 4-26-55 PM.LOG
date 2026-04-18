@@ -1,0 +1,9 @@
+Change Footprint: Footprint Not Found FCI USB 10118193-0001LF
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-S
+Added Member To Class: ClassName=Top_Level Member=Component C1 0.1 µF
+Added Member To Class: ClassName=MCU Member=Component C2 0.1 µF
+Added Member To Class: ClassName=Top_Level Member=Component J1 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Top_Level Member=Component J2 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=MCU Member=Component U5 COM-13667

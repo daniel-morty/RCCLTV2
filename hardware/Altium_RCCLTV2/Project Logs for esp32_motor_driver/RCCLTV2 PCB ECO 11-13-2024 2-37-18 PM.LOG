@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=IR-EMIT Pin=U2-6
-Removed Pin From Net: NetName=IR-RECV Pin=U2-7
-Added Pin To Net: NetName=IR-RECV Pin=U2-6
-Added Pin To Net: NetName=IR-EMIT Pin=U2-7

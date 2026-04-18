@@ -1,4 +1,0 @@
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=M?|Source=..\Altium_RCCLTV2\esp32_motor_driver.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Altium_RCCLTV2\esp32_motor_driver.PrjPcb
-Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\IR_daughter_board\IR_daughter_board.PrjPcb
-Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\IR_daughter_board\IR_daughter_board.PrjPcb

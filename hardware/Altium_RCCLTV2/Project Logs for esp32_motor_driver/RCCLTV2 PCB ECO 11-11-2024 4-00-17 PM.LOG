@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=Power_Supply Member=J6
-Added Pin To Net: NetName=VBUS Pin=C5-2
-Added Pin To Net: NetName=VBUS Pin=U5-8
-Added Member To Class: ClassName=Power_Supply Member=Component J4 B2B-XH-A(LF)(SN)
-Added Member To Class: ClassName=Motor_Driver Member=Component J5 B2B-XH-A(LF)(SN)

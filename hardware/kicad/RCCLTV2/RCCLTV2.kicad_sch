@@ -1,0 +1,157 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d80ea2e8-62f6-4500-9303-891561a52d9e")
+	(paper "A4")
+	(title_block
+		(title "Remote Control Laser Tag")
+		(rev "2.0")
+		(company "Daniel Mortenson")
+	)
+	(lib_symbols)
+	(sheet
+		(at 113.03 87.63)
+		(size 41.91 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 54 196 71 1)
+		)
+		(uuid "6ff3854a-b4d5-4264-991f-c7004408602d")
+		(property "Sheetname" "MCU"
+			(at 113.03 86.9184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 113.03 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RCCLTV2"
+				(path "/d80ea2e8-62f6-4500-9303-891561a52d9e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 109.22)
+		(size 38.1 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 54 196 71 1)
+		)
+		(uuid "b920d1e4-ac73-4048-bdb6-ff8787871189")
+		(property "Sheetname" "Motor_Driver"
+			(at 184.15 108.5084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver.kicad_sch"
+			(at 184.15 119.9646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RCCLTV2"
+				(path "/d80ea2e8-62f6-4500-9303-891561a52d9e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 48.26)
+		(size 38.1 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 54 196 71 1)
+		)
+		(uuid "f7350f8a-e8f4-4af1-bc40-8438fa988fdd")
+		(property "Sheetname" "Power_Supply"
+			(at 109.22 47.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 109.22 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RCCLTV2"
+				(path "/d80ea2e8-62f6-4500-9303-891561a52d9e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
